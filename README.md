@@ -8,4 +8,4 @@ Stack: ***Django, Gunicorn, Nginx, PostgreSQL + SSL(HTTPS)***
   *Site link:* **_https://personal-lib.ru/_**
   
   *Site Preview:*
-![This image](https://github.com/om04an/myprojectdir/blob/1598c80371a097797164e317076bf44ec68780d7/WM-Screenshots-20230112223318.png)
+![This image](https://github.com/om04an/myprojectdir/blob/main/WM-Screenshots-20230125053948.png)
