@@ -5,7 +5,7 @@ At the bottom of the site, statistics are kept on the books read (all the time /
 
 Stack: ***Django, Gunicorn, Nginx, PostgreSQL + SSL(HTTPS)***
 
-  *Site link:* **_https://personal-lib.ru/_**
+  *Site link:* **_( https://personal-lib.ru/ )_**
   
   *Site Preview:*
 ![This image](https://github.com/om04an/myprojectdir/blob/main/WM-Screenshots-20230125053948.png)
