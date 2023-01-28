@@ -9,3 +9,4 @@ Stack: ***Django, Gunicorn, Nginx, PostgreSQL + SSL(HTTPS)***
   
   *Site Preview:*
 ![This image](https://github.com/om04an/myprojectdir/blob/main/WM-Screenshots-20230125053948.png)
+![This image](https://github.com/om04an/Library/blob/main/WM-Screenshots-20230128124329.png)
